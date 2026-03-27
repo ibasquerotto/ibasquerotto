@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👨‍💻 Hello, world! I'm Basquerotto
 
-<!--
-**ibasquerotto/ibasquerotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/igorbasquerotto)" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/codewithbasquerotto" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I am a developer with a strong background in UI and Web Design, currently on a **180-Day Intensive Journey** to become a globally competitive **Full-Stack Java & Cloud Software Engineer**. 
+
+I bridge the gap between pixel-perfect interfaces and highly scalable, robust backend architectures. 
+
+* ⚔️ **Current Challenge:** 180 Days of Code (Java Core, Spring Boot, Microservices, and Cloud).
+* 🏗️ **Building in Public:** Developing my master SaaS product, **Basquerotto {dev}** — a gamified study and project management tool for developers.
+* 🎯 **Focus:** Clean Code, SOLID principles, and Agile methodologies.
+* 🌍 **Goal:** International tech market (US/Europe).
+
+---
+
+### 💻 Tech Stack & Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,react,ts,idea,git,github,figma&perline=15" />
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<br>
+
+---
+<div align="center">
+  <em>"Transforming discipline into code, one commit at a time."</em> ☕🚀
+</div>
