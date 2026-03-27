@@ -26,7 +26,7 @@ I bridge the gap between pixel-perfect interfaces and highly scalable, robust ba
 ### 💻 Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,react,ts,idea,git,github,figma&perline=15" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,react,ts,angular&perline=15" />
 </div>
 
 <br>
